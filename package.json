@@ -1,0 +1,29 @@
+{
+  "name": "project-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rueda10/project-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rueda10/project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/rueda10/project-boilerplate#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.15.2",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.4.1",
+    "mysql": "^2.12.0",
+    "sequelize": "^3.28.0",
+    "underscore": "^1.8.3"
+  }
+}
